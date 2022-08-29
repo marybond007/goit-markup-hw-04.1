@@ -530,6 +530,7 @@ body {
 .footer-sotial-list-link:hover .footer-sotial-list-icon,
 .footer-sotial-list-link:focus .footer-sotial-list-icon {
     fill: var(--accent-secondary-text-color);
+}
 
     /* Портфолио */
 
